@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "watch-project": "^0.13.0"
+    "watch-project": "^0.0.7"
   }
 }
